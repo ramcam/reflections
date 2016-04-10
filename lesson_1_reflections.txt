@@ -2,3 +2,6 @@ Este es un archivo en el que puedo escribir las reflexiones del curso.
 Tiene varias líneas de código.
 En cada línea puedo escribir algo que quiera.
 Hola.
+
+Ahora voy a añadir una nueva reflexión. Increíble.
+Estoy reflexionando.
